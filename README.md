@@ -33,3 +33,25 @@ Oto, jak działa wtyczka "Sticky Phone Button" krok po kroku:
     - Kliknięcie przycisku otwiera domyślną aplikację telefonu na urządzeniu użytkownika, umożliwiając bezpośrednie nawiązanie połączenia na ustawiony numer.
 
 W skrócie: Wtyczka działa, ładując odpowiednie style i skrypty, wyświetla przycisk telefonu na stronie na podstawie ustawień administratora, a kliknięcie przycisku inicjuje połączenie telefoniczne.
+
+## Instalacja
+
+Jeśli chcesz pobrać i zainstalować wtyczkę WordPress bezpośrednio z repozytorium GitHub. Oto instrukcje, jak to zrobić, krok po kroku:
+
+1. **Pobierz wtyczkę**:
+    - Kliknij ten link: [Pobierz wtyczkę](https://github.com/rskonieczka/sticky-phone-button/archive/refs/heads/main.zip), aby pobrać plik .zip z najnowszą wersją wtyczki z gałęzi `main`.
+2. **Zaloguj się do swojego panelu WordPress**:
+    - Otwórz panel administracyjny WordPress.
+    - Przejdź do sekcji "Wtyczki" w lewym menu, a następnie kliknij "Dodaj nową".
+3. **Zainstaluj wtyczkę**:
+    - Na stronie "Dodaj nową wtyczkę", kliknij "Przekaż wtyczkę" na górze strony.
+    - Kliknij "Wybierz plik", znajdź i wybierz plik .zip, który właśnie pobrałeś.
+    - Kliknij "Zainstaluj teraz".
+4. **Aktywuj wtyczkę**:
+    - Po zakończeniu instalacji, pojawi się opcja aktywacji wtyczki. Kliknij "Aktywuj wtyczkę".
+5. **Konfiguracja wtyczki**:
+    - Po aktywacji wtyczki, sprawdź, czy w menu WordPress pojawiła się nowa zakładka lub opcje dotyczące wtyczki, aby dostosować jej działanie według swoich potrzeb.
+6. **Testowanie**:
+    - Upewnij się, że wtyczka działa prawidłowo na Twojej stronie. Sprawdź, czy przycisk telefonu jest poprawnie wyświetlany i czy działa zgodnie z oczekiwaniami.
+
+Pamiętaj, że przy ręcznym pobieraniu i instalowaniu wtyczek z GitHub, ważne jest, aby regularnie sprawdzać dostępność aktualizacji, ponieważ automatyczne aktualizacje przez WordPress nie będą stosowane.
