@@ -4,6 +4,9 @@ Wtyczka wyświetla przyklejony przycisk telefonu na stronie, umożliwiający nat
 
 ## Jak działa ta wtyczka, krok po kroku
 
+**W skrócie:**
+Wtyczka działa, ładując odpowiednie style i skrypty, wyświetla przycisk telefonu na stronie na podstawie ustawień administratora, a kliknięcie przycisku inicjuje połączenie telefoniczne.
+
 Oto, jak działa wtyczka "Sticky Phone Button" krok po kroku:
 
 1. **Start**:
@@ -32,7 +35,8 @@ Oto, jak działa wtyczka "Sticky Phone Button" krok po kroku:
     - Gdy użytkownik odwiedza stronę i spełnione są warunki (np. odpowiednie urządzenie, godziny pracy), przycisk pojawia się na ekranie.
     - Kliknięcie przycisku otwiera domyślną aplikację telefonu na urządzeniu użytkownika, umożliwiając bezpośrednie nawiązanie połączenia na ustawiony numer.
 
-W skrócie: Wtyczka działa, ładując odpowiednie style i skrypty, wyświetla przycisk telefonu na stronie na podstawie ustawień administratora, a kliknięcie przycisku inicjuje połączenie telefoniczne.
+**W skrócie:**
+Wtyczka działa, ładując odpowiednie style i skrypty, wyświetla przycisk telefonu na stronie na podstawie ustawień administratora, a kliknięcie przycisku inicjuje połączenie telefoniczne.
 
 ## Instalacja
 
