@@ -36,7 +36,7 @@ W skrócie: Wtyczka działa, ładując odpowiednie style i skrypty, wyświetla p
 
 ## Instalacja
 
-Jeśli chcesz pobrać i zainstalować wtyczkę WordPress bezpośrednio z repozytorium GitHub. Oto instrukcje, jak to zrobić, krok po kroku:
+Oto instrukcje, jak to zrobić, krok po kroku:
 
 1. **Pobierz wtyczkę**:
     - Kliknij ten link: [Pobierz wtyczkę](https://github.com/rskonieczka/sticky-phone-button/archive/refs/heads/main.zip), aby pobrać plik .zip z najnowszą wersją wtyczki z gałęzi `main`.
